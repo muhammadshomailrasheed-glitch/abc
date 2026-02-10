@@ -1,0 +1,67 @@
+Added Component: Designator=C11(CAP 1206_3216 - 0.8MM)
+Add component (AddParameter): Name = "Applications"; Value = "Automotive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "1000 pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "componentlink1description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "componentlink1url"; Value = "http://www.yageo.com/NewPortal/_en/search/productDocs.jsp?YageoPartNumber=AC1206JRNPO9BN102"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "componentlink2description"; Value = "DigiKey Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "componentlink2url"; Value = "https://www.digikey.com/en/products/detail/yageo/AC1206JRNPO9BN102/6643188"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Package"; Value = "1206 (3216 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "lastupdated"; Value = "6/4/2024 7:10:41 PM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Order"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount, MLCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "1206 (3216 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "packaging"; Value = "TapeAndReel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "AC1206JRNPO9BN102"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partid"; Value = "18692"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "price"; Value = "0.05"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "AEC-Q200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "series"; Value = "AC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.126" L x 0.063" W (3.20mm x 1.60mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "311-3202-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "C0G, NP0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thickness (Max)"; Value = "0.028" (0.70mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "value"; Value = "1000 pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Rated"; Value = "50V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VUSB Pin=J-1
+Added Pin To Net: NetName=3V3 Pin=J-5
+Change Net Name : Old Net Name=3V3 New Net Name=GND
+Change Net Name : Old Net Name=NetC5_2 New Net Name=3V3
+Added Member To Class: ClassName=Schematic Member=Component C1 4.7 uF
+Added Member To Class: ClassName=Schematic Member=Component C2 4.7 uF
+Added Member To Class: ClassName=Schematic Member=Component C3 1000 pF
+Added Member To Class: ClassName=Schematic Member=Component C4 1000 pF
+Added Member To Class: ClassName=Schematic Member=Component C5 1000 pF
+Added Member To Class: ClassName=Schematic Member=Component C6 1000 pF
+Added Member To Class: ClassName=Schematic Member=Component C7 1000 pF
+Added Member To Class: ClassName=Schematic Member=Component C8 1000 pF
+Added Member To Class: ClassName=Schematic Member=Component C9
+Added Member To Class: ClassName=Schematic Member=Component C10 1000 pF
+Added Member To Class: ClassName=Schematic Member=Component C11 1000 pF
+Added Member To Class: ClassName=Schematic Member=Component D1
+Added Member To Class: ClassName=Schematic Member=Component D2
+Added Member To Class: ClassName=Schematic Member=Component D3 L_AMBER
+Added Member To Class: ClassName=Schematic Member=Component D4 BZX84W-B43F
+Added Member To Class: ClassName=Schematic Member=Component D5 MP-3030-1100-57-70
+Added Member To Class: ClassName=Schematic Member=Component J1 DF40C-30DP-0.4V(51)
+Added Member To Class: ClassName=Schematic Member=Component J2 PPTC041LFBN-RC
+Added Member To Class: ClassName=Schematic Member=Component J MUSB-05-S-B-SM-A
+Added Member To Class: ClassName=Schematic Member=Component R1 1K Ohms
+Added Member To Class: ClassName=Schematic Member=Component R2
+Added Member To Class: ClassName=Schematic Member=Component R3 1K Ohms
+Added Member To Class: ClassName=Schematic Member=Component R4
+Added Member To Class: ClassName=Schematic Member=Component R5 1K Ohms
+Added Member To Class: ClassName=Schematic Member=Component R6 680 Ohm
+Added Member To Class: ClassName=Schematic Member=Component R7 1.8 MOhms
+Added Member To Class: ClassName=Schematic Member=Component S1 KXT 311 LHS
+Added Member To Class: ClassName=Schematic Member=Component SW1 CT10-1530-G1
+Added Member To Class: ClassName=Schematic Member=Component  AVR-ISP
+Added Member To Class: ClassName=Schematic Member=Component U1 ATMEGA168-20AUR
+Added Member To Class: ClassName=Schematic Member=Component U2 INTERFACE-FT232RL(SSOP28)
+Added Member To Class: ClassName=Schematic Member=Component Y1 16 MHz
+Added Rule: Name=Schematic Supply Nets_3
